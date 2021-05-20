@@ -1,0 +1,68 @@
+.header-box {
+    text-align: center;
+    margin: 20px 30px;
+}
+.header-list {
+    width: 1123px;
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+}
+.header-list-ietm {
+    display: inline-block;
+    list-style: none;
+    margin-left: 13px;
+    font-size: 18px;
+    color: #1f1534;
+}
+.main-body {
+    text-align: center;
+}
+
+.health-box {
+    display: inline-block;
+    width: 1123px;
+    text-align: center;
+}
+
+.health-left {
+    display: inline-block;
+    vertical-align: top;
+    margin: 170px 20px;
+}
+.health-link {
+    display: inline-block;
+    background-color: #458ff6;
+    border: 1.4px solid black;
+    text-decoration: none;
+    color:white
+    padding: ;
+   
+}
+
+.health-right {
+    display: inline-block;
+    text-align: right;
+    margin-left: 50px;
+}
+
+.health-pic {
+}
+.health-text {
+    width: 300px;
+    font-size: 23px;
+}
+.services-head {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.spanjon {
+    display: inline-block;
+    width: 30px;
+    height: 2px;
+    background-color: black;
+}
+
+.services-paragraf {
+    font-size: 18px;
+}
